@@ -4,8 +4,9 @@ setup.py
 FILE_spidy/__init__.py
 FILE_spidy/file_functions.py
 FILE_spidy/magic.py
+Tools_spidy/ansible_inventory_load
 Tools_spidy/ansible_playbook
-Tools_spidy/yaml_to_mongo
+Tools_spidy/ansible_playbook_load
 Utilities_spidy/__init__.py
 Utilities_spidy/command_line.py
 Utilities_spidy/mongo_functions.py
