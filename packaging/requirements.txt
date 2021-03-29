@@ -24,7 +24,7 @@ plotly==2.0.8
 prompt-toolkit==1.0.14
 ptyprocess==0.5.1
 pyaml==16.12.2
-Pygments==2.2.0
+Pygments==2.7.4
 pymongo==3.4.0
 pyodbc==4.0.16
 pyparsing==2.2.0
